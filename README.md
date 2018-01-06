@@ -51,7 +51,7 @@ number of hidden activations per layer = 500
 number of layers = 3
 Dropout=10%
 
-See [model_generation/lyrics_generator-v2.ipynb](https://github.com/cheeseblubber/lyrics_generator/blob/master/model_generation/lyrics_generator-v2.ipynb) for latest model training
+See [model_generation/lyrics_generator-v2.ipynb](https://github.com/cheeseblubber/lyrics_generator/blob/master/model_generation/lyric-generation-v2.ipynb) for latest model training
 
 ## Experiments
 
