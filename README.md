@@ -60,16 +60,16 @@ See `model_generation/lyrics_generator-v1.ipynb` for latest model training
 
 Model had issues of words repeating and getting stuck in a loop. Increased 
 dropout which reduce the issue. Also lyrics are are typically repetitive especially with
-with choruses.
+with choruses. 
 
 ATM experimenting with loading pretrained word embeddings from [fastText](https://github.com/facebookresearch/fastText)
 Was able to load the pretrained embeddings. 
 
 Next steps:
 
-Freeze embeddings and train other layers for a few iterations first.
-After few iterations unfreeze embeddings and train with small learning rate for embeddings
-Increase learning rate of embeddings model and train for few iterations.
+* Freeze embeddings and train other layers for a few iterations first.
+* After few iterations unfreeze embeddings and train with small learning rate for embeddings
+* Increase learning rate of embeddings model and train for few iterations.
 
 #### Hack to get around looping model
 
