@@ -10,7 +10,7 @@ Retried lyrics categorized as 'Hip-Hop' from 2007 - 2017 from lyrics generator
 - Had to remove some songs form other languages manually by searching for common strings in other languages
 - Randomly split dataset to VAL,TEST,TRN
 
-See `model_generation/lyrics_generator-v1.ipynb` for more details - first attempt
+See [model_generation/lyrics_generator-v1.ipynb](https://github.com/cheeseblubber/lyrics_generator/blob/master/model_generation/lyrics_generator-v1.ipynb) for more details - first attempt
 
 ### Deep Learning Model
 
@@ -51,7 +51,7 @@ number of hidden activations per layer = 500
 number of layers = 3
 Dropout=10%
 
-See `model_generation/lyrics_generator-v1.ipynb` for latest model training
+See [model_generation/lyrics_generator-v2.ipynb](https://github.com/cheeseblubber/lyrics_generator/blob/master/model_generation/lyrics_generator-v2.ipynb) for latest model training
 
 ## Experiments
 
