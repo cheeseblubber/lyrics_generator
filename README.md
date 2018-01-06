@@ -6,7 +6,7 @@ Model was trained on an aws-p2 instance
 
 ### Data cleaning and collection
 
-Retried lyrics categorized as 'Hip-Hop' from 2007 - 2017 from lyrics generator
+Retrieved lyrics categorized as 'Hip-Hop' from 2007 - 2017 from lyrics generator
 - Had to remove some songs form other languages manually by searching for common strings in other languages
 - Randomly split dataset to VAL,TEST,TRN
 
